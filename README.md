@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Belema 👋
+I spend 80% of my day learning and writing codes.
+- ⚡ Fun fact: I wanna be the greatest in the world.
 
 <!--
 **belemaaa/belemaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
