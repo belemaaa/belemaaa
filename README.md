@@ -1,5 +1,5 @@
 ### Hi I'm Belema,
-I am a frontend developer with a fairly strong command of backend engineering. Currently, I work with React JS as my major frontend library, as well as Django as a backend framework. I also write some programs in HTML, CSS, Vanilla Javascript, Java and C++.
+I am a frontend developer with a fairly strong command of backend engineering. Currently, I work with React JS as my major frontend library, as well as Django (a popular Python framework) for backend. I also write some programs in HTML, CSS, Vanilla Javascript, Java and C++.
 ### Feel free to explore some of my open source projects and give reviews if you wish. 
 I spend 80% of my day learning, coding and taking up challenges, if you want to reach out to me for any reason, here's my email📫 -> 
 graceitamunoala@gmail.com
