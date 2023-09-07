@@ -1,7 +1,8 @@
-### Hi I'm Grace,
-I am a frontend developer with a fairly strong command of backend engineering. Currently, I work with React JS as my major frontend library, as well as Django (a popular Python framework) for backend. I also write some programs in Javascript, CSS, Java and C++.
-### Feel free to explore some of my open source projects and give reviews if you wish. 
-I spend 80% of my day learning, coding and taking up challenges, if you want to reach out to me for any reason, here's my email📫 -> 
+###Hello,
+I am Grace Itamunoala. I am a software engineer with proficiency in both frontend development and backend engineering. I employ various technologies while working on projects, majorly React JS (main frontend library), as well as Django (a popular Python framework) for backend. I've also worked on some programs using other languages like C, Java and C++.
+I am looking at exploring the world of Machine Learning and Data Science as time goes on.
+### Feel free to peruse some of my open source projects and give reviews if you wish. 
+If you need to reach out to me for any reason, here's my email📫 -> 
 graceitamunoala@gmail.com
 
 <!--
