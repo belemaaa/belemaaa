@@ -1,4 +1,4 @@
-### Hello,
+### Hi there,
 I am Grace Itamunoala. I am a software engineer with proficiency in both frontend development and backend engineering. I employ various technologies while working on projects, majorly React JS (main frontend library), as well as Django (a popular Python framework) for backend. I've also worked on some programs using other languages like C, Java and C++.
 I am looking at exploring the world of Machine Learning and Data Science as time goes on.
 ### Feel free to peruse some of my open source projects and give reviews if you wish. 
