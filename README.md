@@ -1,5 +1,5 @@
 ### Grace.
-I learn, build, improve and relearn. I am a software engineering student and machine learning/AI enthusiast with current expertise in Fullstack development. I utilize a range of technologies comprising React JS as my primary frontend library and Django (a prominent Python framework) for backend development, as well as knowledge of C, Java, C++, Visual Basic and Javascript (with constant improvement of my stack).
+I learn, build, improve and relearn. I am a software engineering student and machine learning/AI enthusiast with current expertise in Fullstack development. I utilize a range of technologies comprising React JS as my primary frontend library, Node JS and Django (a prominent Python framework) for backend development, as well as knowledge of C, Java, C++, Visual Basic and Javascript (with constant improvement of my stack).
 With time, I aspire to delve deeper into the realms of Machine Learning, Data Science and Artificial Intelligence.
 If you need to reach out to me for any reason, here's my email📫 -> 
 graceitamunoala@gmail.com
