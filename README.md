@@ -1,15 +1,22 @@
 ### Hi, I'm Grace.
 I learn, build, improve and relearn. I am a software engineering student and machine learning/AI enthusiast with current expertise in fullstack development. 
-Current Stack and Tools:
-- C#                         -TailwindCSS
-- ASP.NET Core (.NET)        -Javascript
-- Node JS                    -Java
-- Express JS                 -PostgreSql
-- React JS                   -MySQL
-- Python                     -MongoDB
+Tools and Technologies:
+- C#
+- ASP.NET Core (.NET)     
+- Node JS              
+- Express JS         
+- React JS               
+- Python                     
 - Django
 - Html
-### With time, I aim to explore the fields of Machine Learning, Data Science and Artificial Intelligence.
+- TailwindCSS
+- Javascript
+- Java
+- PostgreSQL
+- MySQL
+- MongoDB
+
+With time, I aim to explore the fields of Machine Learning, Data Science and Artificial Intelligence.
 Email📫 -> graceitamunoala@gmail.com
 
 <!--
