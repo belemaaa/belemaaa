@@ -9,7 +9,7 @@ Current Stack and Tools:
 - Python                     -MongoDB
 - Django
 - Html
-With time, I aim to explore the fields of Machine Learning, Data Science and Artificial Intelligence.
+### With time, I aim to explore the fields of Machine Learning, Data Science and Artificial Intelligence.
 Email📫 -> graceitamunoala@gmail.com
 
 <!--
