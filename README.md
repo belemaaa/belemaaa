@@ -5,7 +5,8 @@ Tools and Technologies:
 - ASP.NET Core (.NET)     
 - Node JS              
 - Express JS         
-- React JS               
+- React JS
+- Typescript              
 - Python                     
 - Django
 - Html
